@@ -1,6 +1,6 @@
 # *`Enhancing Loan Approval Status Prediction Using Machine Learning`*
 
-![Alt text](../Data/Status.png)
+![Alt text](Enhancing-Loan-Approval-Decisions-With-Machine-Learning\Images\Status.png)
 
 ## Introduction to the Project:
 
